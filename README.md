@@ -3,6 +3,9 @@
 
 Written for an assignment in the course IN1010 objectoriented programming, at University of Oslo. The program utilizes **javax** and **swing** for the user interface.
 
+![Screenshot](https://user-images.githubusercontent.com/79048774/136178098-4204c7f1-ae1b-4609-a25b-d2eb0dfa03ac.PNG)
+
+
 ## User documentation
 
 - Start the program in console by compiling and running **LabyrintSystem3000**
@@ -16,3 +19,5 @@ Written for an assignment in the course IN1010 objectoriented programming, at Un
 - The programs color scheme is easely customizable in the code with color-tags for each element in the GUI
 - The elements themselves are made to be customized to some extent if needed.
 - Code and text in the GUI is written in norwegian
+
+
