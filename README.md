@@ -15,3 +15,4 @@ Written for an assignment in the course IN1010 objectoriented programming, at Un
 ## Customization
 - The programs color scheme is easely customizable in the code with color-tags for each element in the GUI
 - The elements themselves are made to be customized to some extent if needed.
+- Code and text in the GUI is written in norwegian
